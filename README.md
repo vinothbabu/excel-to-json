@@ -2,7 +2,7 @@
 -- convert excel files to json files.
 -- convert multiple nested children excel files to json files.
 
-[![Build Status](https://travis-ci.org/vinothbabu/excel2json.svg?branch=master)](https://travis-ci.org/vinothbabu/excel2json)
+[![Build Status](https://travis-ci.org/vinothbabu/excel-to-json.svg?branch=master)](https://travis-ci.org/vinothbabu/excel-to-json)
 
 ## Install
 
