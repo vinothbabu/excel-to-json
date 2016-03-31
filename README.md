@@ -15,8 +15,10 @@
 ``` javascript
   var excel2json = require("excel-to-json");
   excel2json({
-    input: "input",  // input directory 
-    output: "output" // output directory 
+    trans:{
+      input: "input",
+      output: "output"
+    } 
    }, function(err, result) {
     if(err) {
       console.error(err);
